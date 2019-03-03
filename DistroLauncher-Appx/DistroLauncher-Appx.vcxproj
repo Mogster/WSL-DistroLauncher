@@ -168,7 +168,4 @@
       <Outputs>$(targetname).exe</Outputs>
     </CustomBuild>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Package.StoreAssociation.xml" />
-  </ItemGroup>
 </Project>
