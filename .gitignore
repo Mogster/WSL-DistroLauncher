@@ -296,3 +296,5 @@ DistroLauncher/messages.h
 *.dll
 *.exe
 *.tar.gz
+/DistroLauncher/DistributionInfo.h.bak
+/DistroLauncher/DistroLauncher.vcxproj.bak

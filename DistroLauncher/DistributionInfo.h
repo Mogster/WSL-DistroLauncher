@@ -13,7 +13,7 @@ namespace DistributionInfo
     //
     // WARNING: This value must not change between versions of your app,
     // otherwise users upgrading from older versions will see launch failures.
-    const std::wstring Name = L"Linux Mint";
+    const std::wstring Name = L"Linux-Mint";
 
     // The title bar for the console window while the distribution is installing.
     const std::wstring WindowTitle = L"Linux Mint";
