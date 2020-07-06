@@ -49,13 +49,13 @@
   <PropertyGroup>
     <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
     <AppxBundle>Always</AppxBundle>
-    <PackageCertificateThumbprint>FFC02A0E477F5D2E6CB4891D6B385A51BDAE26C4</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>510E0A7C0E6575A7520A459D0FAB78C7656DDEDF</PackageCertificateThumbprint>
     <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
     <AppxBundlePlatforms>x64</AppxBundlePlatforms>
     <AppInstallerUpdateFrequency>1</AppInstallerUpdateFrequency>
     <AppInstallerCheckForUpdateFrequency>OnApplicationRun</AppInstallerCheckForUpdateFrequency>
     <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
-    <PackageCertificateKeyFile>DistroLauncher-Appx_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
   </PropertyGroup>
   <ItemDefinitionGroup>
     <Link>
